@@ -1,4 +1,6 @@
-Arduino Project
+Arduino Rafanto Project
 ====
 
-This repos archive my Arduino Project Test
+This Repos archive my Arduino Project Test
+
+1. Arduino Garden Project: Watering system for my chilli plants
