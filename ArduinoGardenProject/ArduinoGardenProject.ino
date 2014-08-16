@@ -49,6 +49,7 @@ Serial.print("\t");
 Serial.println(DHT.temperature,1);
 
 Serial.print("MOISTURE SENSOR, \t");
+Serial.println(chkmoisture);
 
 if (chkmoisture < 300){
    statePump = "ON";
